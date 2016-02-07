@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="no_images">Image introuvable</string>
+    <string name="images">%d Images</string>
+    <string name="save">Enregistrer</string>
+    <string name="apply">Appliquer</string>
+
+    <string name="stickers">Stickers</string>
+    <string name="fliter">Filtres</string>
+    <string name="crop">Dimensions</string>
+    <string name="rotate">Rotation</string>
+</resources>
